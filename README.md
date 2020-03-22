@@ -1,7 +1,7 @@
 # BlogAppRN
 A blog app template with post,fetch ,edit options to store data on a JSON server and interact with the same to modify entries as required with full back-end and front-end build
 
-# Steps to run and configure the server and synchronising the server with the App.
+# Steps to run and configure the server and synchronise the server with App.
 1- Go to npmjs.com/package/json-server and have a look at the JSON server documentation.  
 2- Move out of the current app directory and create a new directory with name 'jsonserver'  
 3- Get inside the 'jsonserver' , in the terminal type 'npm init' and press enter in all the further steps.  
