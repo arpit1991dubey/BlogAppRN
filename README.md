@@ -17,7 +17,7 @@ A blog app template with post,fetch ,edit options to store data on a JSON server
 }  
 12- Return back to your terminal and run 'npm run db'.  
 13- The terminal window will look simialr to this-  
-![](Server demo and visuals/server config.JPG)
+![](Server%20demo%20and%20visuals/server%20config.JPG)
 
 
 
