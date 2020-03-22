@@ -27,7 +27,7 @@ A blog app template with post,fetch ,edit options to store data on a JSON server
 ![](Server%20demo%20and%20visuals/ngrokConfig.JPG)
 
 
-17- Now copy the firs fowwarding link 'http://xyz123.ngrok.io' (this is just and example you will get another link) .
+17- Now copy the firs fowwarding link 'http://xyz123.ngrok.io' (this is just and example you will get another link) .  
 18- Now this is the link which will be used to acces your server from outside world, which means your server is now hosted online.  
 19- You can go to a web browser and paste this link you will see a message "Congrats you're succesfully running JSON server" , time to be happy now, you have succesfully come so far.  
 20- Remember that this ngrok link is not a static adderess to your server , it will expire in a time period of 8 hours , you can get a static IP by paying some charges although.  
