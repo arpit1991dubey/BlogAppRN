@@ -40,5 +40,8 @@ A blog app template with post,fetch ,edit options to store data on a JSON server
 24- Try modifing and adding posts via app and see the 'db.js' file change accrodingly,it'll be fun.Cheers  
 
 # Demo of the working app connected with server -:  
+Creating an entry  
 ![](Server%20demo%20and%20visuals/create%20entry.gif)  
+Modifying an entry  
+![](Server%20demo%20and%20visuals/modifyentry.gif)  
 
