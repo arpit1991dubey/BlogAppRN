@@ -5,8 +5,8 @@ A blog app template with post,fetch ,edit options to store data on a JSON server
 1- Go to npmjs.com/package/json-server and have a look at the JSON server documentation.  
 2- Move out of the current app directory and create a new directory with name 'jsonserver'  
 3- Get inside the 'jsonserver' , in the terminal type 'npm init' and press enter in all the further steps.  
-4- In this project we will use ngrok to configure and get our server to be hosted online.  
-5- In the same directory now enter 'npm install json-server ngrok' , this will install json server with ngrok in your current directory. 
+4- In this project we will use ngrok to configure and get our server to be hosted online.   
+5- In the same directory now enter 'npm install json-server ngrok' , this will install json server with ngrok in your current directory.   
 6- Now open the directory in your preffered editor(mine is VScode).    
 7- Create a new file named db.json in the directory.  
 8- This will store the schema and data received and modified by the user in the app you can assume it as the database of the server.  
