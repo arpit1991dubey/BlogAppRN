@@ -17,3 +17,20 @@ A blog app template with post,fetch ,edit options to store data on a JSON server
 }  
 12- Return back to your terminal and run 'npm run db'.  
 13- The terminal window will look simialr to this-  
+
+
+
+14- You can always change the port in 'package.json' if you encounter some error.  
+15- Open a new terminal and point to the same directory called jsonserver and run 'npm run tunnel'  
+16- Yow will se a new popup in terminal which resembles something like this.  
+
+
+
+17- Now copy the firs fowwarding link 'http://xyz123.ngrok.io' (this is just and example you will get another link) .
+18- Now this is the link which will be used to acces your server from outside world, which means your server is now hosted online.  
+19- You can go to a web browser and paste this link you will see a message "Congrats you're succesfully running JSON server" , time to be happy now, you have succesfully come so far.  
+20- Remember that this ngrok link is not a static adderess to your server , it will expire in a time period of 8 hours , you can get a static IP by paying some charges although.  
+21- Now install axios to your directory to get and post request, you can use fetch function too but i feel axios more easy and modular.-for installing axios 'npm install axios'  
+22- Paste the forwarding address in your baseurl section of the jsonServer file.
+23- Congrats you are done with the JSON server setup.
+24- Try modifing and adding posts via app and see the 'db.js' file change accrodingly,it'll be fun.Cheers  
